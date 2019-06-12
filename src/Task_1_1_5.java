@@ -1,7 +1,7 @@
 public class Task_1_1_5 {
     public static void main(String[] args) {
 
-        int t = 101245;
+        int t = 9675;
 
         int h = t/3600;
 
