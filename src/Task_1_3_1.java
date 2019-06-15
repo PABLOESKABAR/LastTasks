@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task_1_3_0 {
+public class Task_1_3_1 {
 
 
     public static void main(String[] args) {
