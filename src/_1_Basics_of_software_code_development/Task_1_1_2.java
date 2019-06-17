@@ -1,3 +1,5 @@
+package _1_Basics_of_software_code_development;
+
 import java.util.Scanner;
 
 

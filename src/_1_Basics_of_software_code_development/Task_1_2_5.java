@@ -1,5 +1,4 @@
-
-import java.util.Scanner;
+package _1_Basics_of_software_code_development;
 
 
 public class Task_1_2_5 {
