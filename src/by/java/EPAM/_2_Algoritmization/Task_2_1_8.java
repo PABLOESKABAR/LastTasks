@@ -16,8 +16,6 @@ public class Task_2_1_8 {
         // Range = End date - Start date
         Long range = ChronoUnit.DAYS.between(startDate, endtDate);
         System.out.println("Колличество недель для Насти  ==>  "+range/7+" неделя и "+range%7+" дней");
-
-
     }
 
 }
