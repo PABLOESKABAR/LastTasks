@@ -1,10 +1,10 @@
-package _2_Algoritmization;
+package by.java.EPAM._2_Algoritmization;
 
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-public class Task_2_1_8 {
+public class Amounth_weeks_for_Nastia {
     public static void main(String[] args) {
 
         // Date in String format.
@@ -16,8 +16,6 @@ public class Task_2_1_8 {
         // Range = End date - Start date
         Long range = ChronoUnit.DAYS.between(startDate, endtDate);
         System.out.println("Колличество недель для Насти  ==>  "+range/7+" неделя и "+range%7+" дней");
-
-
     }
 
 }
